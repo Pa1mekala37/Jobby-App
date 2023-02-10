@@ -15,8 +15,7 @@ Technologies used: React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local 
 
 ![Screenshot (585)](https://user-images.githubusercontent.com/104497104/217999555-1e3280ee-0c20-459c-bff2-e2c4a86278e9.png)
 <br/>
-![Screenshot (586)](https://user-images.githubusercontent.com/104497104/217999595-26e34ba1-8797-4472-9482-2600970998d0.png)
-
+![pvnjobbyapp ccbp tech_jobs_bb95e51b-b1b2-4d97-bee4-1d5ec2b96751](https://user-images.githubusercontent.com/104497104/218000457-e9478553-35e8-4563-8fa5-c3c117a94f44.png)
 
 **Failure View** <br/>
 
