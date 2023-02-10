@@ -8,6 +8,9 @@ Implemented Jobby App where users can log in and can see a list of jobs with sea
 - Redirecting to the login page if the user tries to open Home, Jobs, Job item details routes which need authentication by implementing protected Route.
 
 Technologies used: React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, Authorization, Authentication
+
+<h1>User Name : rahul </h1>
+<h1> Password : rahul@2021 </h1>
 ### Refer to Images below:
 
 ![Screenshot (585)](https://user-images.githubusercontent.com/104497104/217999555-1e3280ee-0c20-459c-bff2-e2c4a86278e9.png)
